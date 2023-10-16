@@ -1,4 +1,5 @@
 # AI-Tree-Search-Puzzle
+![TressSearch](https://github.com/Michael-Elrod-dev/AI-Tree-Search-Puzzle/blob/main/TreeSearch.png)
 
 This project consists of a program that aims to solve or analyze the 3x3 sliding puzzle, often referred to as the "8-puzzle". The program provides functionalities to generate puzzle states, get neighboring states, and search for solutions.
 
